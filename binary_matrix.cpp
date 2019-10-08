@@ -30,7 +30,7 @@ void insert_element ( int arr [  ] [ COLUMN ] )
 	cout << "Enter elements of array" << endl;
 	for ( int i = 0; i < ROW; i++ )
 	{
-		for ( int j = 0; j < COLUMN; i++ )
+		for ( int j = 0; j < COLUMN; j++ )
 		{
 			cin >> arr [ i ] [ j ];
 		}
